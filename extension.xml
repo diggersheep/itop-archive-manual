@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension format="1.0">
+	<extension_code>combodo-archive-manual</extension_code>
+	<company>Combodo SARL</company>
+	<author><![CDATA[Pierre]]></author>
+	<label><![CDATA[Archive tickets manually]]></label>
+	<description><![CDATA[Archive tickets from the console]]></description>
+	<version>1.0.2</version>
+	<release_date>2018-06-26</release_date>
+	<version_description><![CDATA[Spanish translation]]></version_description>
+	<itop_version_min></itop_version_min>
+	<status></status>
+	<mandatory>false</mandatory>
+	<more_info_url></more_info_url>
+</extension>
